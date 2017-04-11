@@ -19,3 +19,9 @@ Fabric Composer Example Guide
 
 `npm install` will run many other tasks that manage your docker instances with Hyperledger. To see what it's doing, read
 more at `documentation/Installation.md`
+
+## Testing
+
+`npm run test`
+
+

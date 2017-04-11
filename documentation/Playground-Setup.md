@@ -9,6 +9,7 @@ To get started you will need to run a playground, there are two options:
 Follow this if you don't have an existing Fabric Instance:
 
 ```bash
+$ cd scripts/
 $ docker pull hyperledger/fabric-baseimage:x86_64-0.1.0
 $ docker tag hyperledger/fabric-baseimage:x86_64-0.1.0 hyperledger/fabric-baseimage:latest
 $ docker-compose up -d

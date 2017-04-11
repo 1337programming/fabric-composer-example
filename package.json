@@ -32,8 +32,8 @@
   },
   "dependencies": {
     "cli-table": "^0.3.1",
-    "composer-admin": "^0.5.0",
-    "composer-client": "^0.5.0",
+    "composer-admin": "^0.5.10",
+    "composer-client": "^0.5.10",
     "config": "^1.24.0",
     "digitalproperty-network": "latest",
     "jsonfile": "^2.4.0",
@@ -46,8 +46,8 @@
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
     "chai-things": "^0.2.0",
-    "composer-connector-embedded": "^0.5.0",
-    "composer-playground": "^0.5.9",
+    "composer-connector-embedded": "^0.5.10",
+    "composer-playground": "^0.5.10",
     "mocha": "^3.2.0",
     "sinon": "^1.17.6",
     "sinon-as-promised": "^4.0.2"
