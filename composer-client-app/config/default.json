@@ -1,0 +1,9 @@
+{
+
+  "composer-client-app" : {
+    "connectionProfileName":"defaultProfile",
+    "networkIdentifier":"digitalproperty-network",
+    "enrollmentId":"WebAppAdmin",
+    "enrollmentSecret":"DJY27pEnl16d"
+  }
+}
