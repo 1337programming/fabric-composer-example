@@ -21,7 +21,6 @@
     "getting-started",
     "Fabric Composer"
   ],
-  "author": "Patrick Opie",
   "license": "Apache2",
   "dependencies": {
     "digitalproperty-network": "latest",
